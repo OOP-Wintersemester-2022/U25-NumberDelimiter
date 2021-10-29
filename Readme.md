@@ -1,4 +1,4 @@
-# U10-2 | NumberDelimiter
+# U25 | NumberDelimiter
 
 Beim Schreiben von besonders großen Zahlen ist es üblich, ein
 Tausender-Trennzeichen zu benutzen, um die Ziffernfolge in Dreiergruppen zu unterteilen. Dieses Trennzeichen kann ein Leerzeichen, ein Komma oder
